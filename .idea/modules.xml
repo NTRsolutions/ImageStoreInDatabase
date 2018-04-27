@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Retrofit2-RestApiDemo.iml" filepath="$PROJECT_DIR$/.idea/Retrofit2-RestApiDemo.iml" />
+      <module fileurl="file://E:\Hiren\Android Rahul\Company Workspace\tt\Retrofit2-RestApiDemo\Retrofit2-RestApiDemo.iml" filepath="E:\Hiren\Android Rahul\Company Workspace\tt\Retrofit2-RestApiDemo\Retrofit2-RestApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Hiren\Android Rahul\Company Workspace\tt\Retrofit2-RestApiDemo\app\app.iml" filepath="E:\Hiren\Android Rahul\Company Workspace\tt\Retrofit2-RestApiDemo\app\app.iml" />
+    </modules>
+  </component>
+</project>
